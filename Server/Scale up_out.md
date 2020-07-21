@@ -1,2 +1,2 @@
-## 1. Scale up / out  
+## Scale up / out  
 

@@ -1,1 +1,1 @@
-## 1. TDD (Test Driven Develop)
+## TDD (Test Driven Develop)
