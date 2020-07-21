@@ -7,7 +7,7 @@
 * msa  
 * message queue  
 * pub / sub  
-## Develop. 
+## Develop 
 * tdd / bdd  
 ## Git
 * git flow  
