@@ -8,6 +8,7 @@
 * message queue  
 * pub / sub  
 ## Development 
-* [tdd / bdd](https://github.com/mataeLee/Study-Tech/blob/master/Development/TDD.md)  
+* [tdd](https://github.com/mataeLee/Study-Tech/blob/master/Development/TDD.md)  
+* bdd
 ## Git
 * [git flow](https://github.com/mataeLee/Study-Tech/blob/master/Git/Git-flow.md)
