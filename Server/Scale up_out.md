@@ -11,6 +11,6 @@
 
 
 ### 비교  
-![](https://github.com/mataeLee/Study-Tech/blob/master/resource/scale%20up:out.png)
+![](https://github.com/mataeLee/Study-Tech/blob/master/resource/scale%20up_out.png)
 사진 출처 ▶︎ https://www.hooni.net/xe/study/95321
 
