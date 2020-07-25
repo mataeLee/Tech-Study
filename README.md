@@ -3,7 +3,7 @@
 
 ## 서버 백엔드
 * [Scale up / out](https://github.com/mataeLee/Study-Tech/blob/master/Server/Scale%20up_out.md)  
-* Stateless  
+* [Stateless](https://github.com/mataeLee/Study-Tech/blob/master/Server/Stateless.md)  
 * MSA  
 * Message Queue  
 * pub / sub  
