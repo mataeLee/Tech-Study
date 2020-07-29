@@ -13,5 +13,6 @@ Stateful 은 Stateless와 반대로 세션정보를 서버에 저장한다. 저�
 ![stateful architectuer](https://github.com/mataeLee/Study-Tech/blob/master/resource/stateful.png)  
 - ClientA의 요청이 server2로 진행할 경우 ClientA와의 상태정보를 다시 저장해야하는 번거로움이 생길 가능성이 있다.
 ![stateless architectuer](https://github.com/mataeLee/Study-Tech/blob/master/resource/stateless.png) 
-- 상태정보를 따로 저장하여 이용하기 때문에 유연하게 scale-out이 가능하다.
+- 상태정보를 따로 저장하여 이용하기 때문에 유연하게 scale-out이 가능하다.  
+  
 사진 출처 ▶︎ https://5equal0.tistory.com/entry/StatefulStateless-Stateful-vs-Stateless-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80-HTTP-%EB%B0%8F-REST
