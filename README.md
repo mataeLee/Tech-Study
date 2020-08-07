@@ -12,3 +12,6 @@
 * BDD
 ## Git
 * [git flow](https://github.com/mataeLee/Study-Tech/blob/master/Git/Git-flow.md)
+
+## Resource reference
+- https://github.com/mataeLee/Study-Tech/blob/master/resource/resource.md
