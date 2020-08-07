@@ -3,6 +3,9 @@ MOM(Message Oriented Middleware)을 구현한 시스템을 메시지 큐(MQ)라�
   
 프로그래밍에서 MQ는 프로세스 또는 프로그램 인스턴스가 데이터를 서로 교환할때 사용하는 방법이다. 서로 다른 프로세스나 프로그램 사이에 메시지를 교환할때 AMQP(Advanced Message Queueing Protocol)을 이용한다. AMQP는 메세지 지향 미들웨어를 위한 open standard application layer protocol 이다. AMQP를 이용하면 다른 벤더 사이에 메세지를 전송하는 것이 가능하다.  
 
+기본적인 원리는 다음과 같다.
+![Message Queue basic process](https://github.com/mataeLee/Study-Tech/blob/master/resource/mq%20process.png)
+
 ## Why?
 대용량 데이터를 처리하기 위한 배치 작업이나, 채팅 서비스, 비동기 데이터 처리, 어플리케이션/시스템간 통신 등에 사용된다. 프로세스 단위로 처리하는 웹 요청이나 일반적인 프로그램을 만들어서 사용하는데, 사용자가 많아지거나 데이터가 많아지면 요청에 대한 응답이 지연되므로 서비스가 정상적으로 작동하지 못하는 상황이 올 수 있다. 따라서 기존에 분산되어 있던 데이터 처리를 한곳으로 집중시키고. 브로커를 두어 작업을 분산 시키는 방법을 적용하기 위해 사용한다.    
 
