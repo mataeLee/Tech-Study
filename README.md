@@ -6,7 +6,7 @@
 * [Stateless](https://github.com/mataeLee/Study-Tech/blob/master/Server/Stateless.md)  
 * [MSA](https://github.com/mataeLee/Study-Tech/blob/master/Server/Msa.md)  
 * [Message Queue](https://github.com/mataeLee/Study-Tech/blob/master/Server/Message%20queue.md)
-* pub / sub  
+* [pub / sub](https://github.com/mataeLee/Study-Tech/blob/master/Server/pub_sub.md)  
 ## Development 
 * [TDD](https://github.com/mataeLee/Study-Tech/blob/master/Development/TDD.md)  
 * BDD
