@@ -14,7 +14,7 @@ Producer가 메시지를 큐에 넣어두면, Consumer가 메시지를 가져와
 
 ## Pros & Cons
 __Pros__
-- 비동기(Asynchronous): Queue에 넣기 때문에 나중에 처리 할 수 있다.
+- 비동기(Asynchronous): 큐에 넣기 때문에 나중에 처리 할 수 있다.
 - 비동조(Decoupling): 어플리케이션과 분리 할 수 있다.
 - 탄력성(Resilience): 일부가 실패 시 전체에 영향을 받지 않는다.
 - 과잉(Redundancy): 실패 할 경우 재실행이 가능하다.
