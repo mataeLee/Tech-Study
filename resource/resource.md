@@ -10,3 +10,6 @@ __msa.png__
   
 __mq process.png__
 - https://heowc.tistory.com/35
+
+__pub sub__
+-https://aws.amazon.com/ko/pub-sub-messaging/
