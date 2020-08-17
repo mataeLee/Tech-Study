@@ -1,4 +1,4 @@
-# Study-Tech
+# Tech-Study
 공부한 기술들을 정리  
 
 ## Server-tech
